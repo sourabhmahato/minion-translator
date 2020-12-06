@@ -1,0 +1,61 @@
+img{
+    height:300px;
+    width: 100%;
+}
+.header{
+    padding-top: 20px;
+}
+.content{
+    text-align: center;
+}
+.btn{
+    margin-top: 30px;
+    height: 50px;
+    width: 100px;
+    border: solid black 1px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.all{
+    position: relative;
+    height: 600px;
+    margin-top: -19px;
+    margin-left: -9px;
+    margin-right: -9px;
+}
+.nav{
+    background-color: yellow;
+    height: 75px;
+    margin-top: -22px;
+    margin-left: -9px;
+    margin-right: -9px;
+    text-align: center;
+    border-bottom-left-radius: 85px;
+}
+.text1{
+    height: 150px;
+    width: 300px;
+    
+}
+.text2{
+    height: 150px;
+    width: 300px;
+}
+
+.lol{
+ margin-top: 50px;
+}
+
+.foot{
+    background-color: yellow;
+    text-align: center;
+    height: 95px;
+    margin-bottom: -22px;
+    margin-left: -9px;
+    margin-right: -10px;
+    border-top-right-radius: 40px;
+}
+.footer{
+    padding-top: 20px;
+   
+}
