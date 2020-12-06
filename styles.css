@@ -1,5 +1,5 @@
 body{
-    background-image: url(image/minion.jpg);
+    background-image: url(image/bg-img.jpg);
     background-color: lightgreen;
 }
 .header{
@@ -35,21 +35,28 @@ body{
 .text1{
     height: 150px;
     width: 300px;
-    
+    border: 2px solid yellow;   
 }
-.text2{
+.output{
     height: 150px;
-    width: 300px;
+    border: 2px solid yellow; 
+    background-color: white;
+    width: 330px;
+    margin-left: 510px;
 }
 
 .lol{
  margin-top: 50px;
+ color: black;
+}
+.jol{
+    color: black;
 }
 
 .foot{
     background-color: yellow;
     text-align: center;
-    height: 100px;
+    height: 150px;
     border-top-right-radius: 40px;
 }
 .footer{
