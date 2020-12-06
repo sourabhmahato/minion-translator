@@ -1,6 +1,6 @@
-img{
-    height:300px;
-    width: 100%;
+body{
+    background-image: url(image/minion.jpg);
+    background-color: lightgreen;
 }
 .header{
     padding-top: 20px;
@@ -49,13 +49,9 @@ img{
 .foot{
     background-color: yellow;
     text-align: center;
-    height: 95px;
-    margin-bottom: -22px;
-    margin-left: -9px;
-    margin-right: -10px;
+    height: 100px;
     border-top-right-radius: 40px;
 }
 .footer{
     padding-top: 20px;
-   
 }
